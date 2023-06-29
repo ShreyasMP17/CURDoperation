@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "name": "shreyas",
+      "age": "15",
+      "location": "cpt",
+      "id": 1
+    },
+    {
+      "name": "hunkk",
+      "age": "21",
+      "location": "bng",
+      "id": 2
+    }
+  ]
+}

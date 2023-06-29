@@ -1,0 +1,49 @@
+.main{
+    background-color: papayawhip;
+    padding: 50px 0px;
+}
+.users{
+    background-color:rgb(19, 3, 30);
+    color: white;
+    padding: 20px 0px;
+    margin: 0px 400px;
+    border-radius: 50px;
+}
+#ul{
+    color:rgb(102, 102, 170);
+}
+#git{
+    color: papayawhip;
+}
+.userList{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 40px 20px 40px;
+    background-color: papayawhip;
+    color: rgb(19, 3, 30);
+    border-radius: 50px;
+    border: 10px double rgb(19, 3, 30);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 12px;
+    padding-bottom: 10px;
+    align-items: center;
+    transition: 0.5s;
+    /* box-shadow: 15px 10px 10px greenyellow; */
+}
+.userList:hover{
+    transform: translateY(-10px);
+}
+.images img{
+    border-radius: 50%;
+}
+.but button{
+    background-color:rgb(19, 3, 30) ;
+    color: papayawhip;
+    border-radius: 10px;
+    padding: 3px 5px 3px 5px;
+}
+.but button:hover{
+    background-color:red ;
+}
+
